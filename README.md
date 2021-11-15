@@ -1,1 +1,1 @@
-![Metrics](https://github.com/Svision/Svision/raw/master/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Svision/Svision/main/github-metrics.svg)
